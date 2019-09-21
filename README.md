@@ -2,7 +2,7 @@
 <a href="https://rocketseat.com.br/bootcamp" alt="Bootcamp Rocketseat">
   <img src="https://skylab.rocketseat.com.br/api/files/1560759053914.svg" height="120px"></a></p>
 
-# Rocketseat GoStack - Desafio 06
+# Rocketseat GoStack - Gobarber Mobile
 
 https://rocketseat.com.br/bootcamp
 
@@ -13,7 +13,7 @@ Aplicação em Raect Native GoBarber.
 ## Installing
 
 ```
-cd gostack-desafio6
+cd gostack-mobile-gobarber
 yarn
 ```
 
